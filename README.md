@@ -1,5 +1,6 @@
 # Degroject
+lol
 kek
-bek
 bubblebek
 rullerkek
+Bek был лишним
