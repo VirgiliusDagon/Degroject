@@ -1,0 +1,20 @@
+﻿Build started 19.09.2017 12:36:26.
+     1>Project "G:\C++\Лаб №2\Lab2\Lab2\Lab2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab2.unsuccessfulbuild".
+         Touching "Debug\Lab2.lastbuildstate".
+     1>Done Building Project "G:\C++\Лаб №2\Lab2\Lab2\Lab2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.31

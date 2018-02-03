@@ -1,0 +1,18 @@
+﻿Построение начато 09.12.2017 15:13:41.
+     1>Проект "C:\Users\Desaf\Documents\Visual Studio 2010\Projects\mb11\mb11\mb11.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\mb11.unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\mb11.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt mb11.cpp
+         mb11.cpp
+     1>c:\users\desaf\documents\visual studio 2010\projects\mb11\mb11\mb11.cpp(34): error C2628: недопустимый "employee" с последующим "int" (возможно, отсутствует ";")
+     1>c:\users\desaf\documents\visual studio 2010\projects\mb11\mb11\mb11.cpp(34): error C3874: возвращаемый тип "wmain" должен быть "int", а не "employee"
+     1>c:\users\desaf\documents\visual studio 2010\projects\mb11\mb11\mb11.cpp(40): error C2664: employee::employee(const employee &): невозможно преобразовать параметр 1 из "int" в "const employee &"
+                 Причина: невозможно преобразовать "int" в "const employee"
+                 Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+     1>Построение проекта "C:\Users\Desaf\Documents\Visual Studio 2010\Projects\mb11\mb11\mb11.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.71
