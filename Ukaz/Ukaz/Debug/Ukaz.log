@@ -1,0 +1,28 @@
+﻿Построение начато 29.12.2017 1:00:48.
+     1>Проект "c:\Users\Desaf\documents\visual studio 2010\Projects\Ukaz\Ukaz\Ukaz.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Ukaz.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Ukaz.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Ukaz.cpp
+         Ukaz.cpp
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\desaf\documents\visual studio 2010\Projects\Ukaz\Debug\Ukaz.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Ukaz.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\desaf\documents\visual studio 2010\Projects\Ukaz\Debug\Ukaz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\desaf\documents\visual studio 2010\Projects\Ukaz\Debug\Ukaz.lib" /MACHINE:X86 Debug\Ukaz.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\Ukaz.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Ukaz.exe.embed.manifest" /manifest Debug\Ukaz.exe.intermediate.manifest
+         Для всех выходных данных обновления не требуется.
+       LinkEmbedManifest:
+         Для всех выходных данных обновления не требуется.
+         Ukaz.vcxproj -> c:\users\desaf\documents\visual studio 2010\Projects\Ukaz\Debug\Ukaz.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Ukaz.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Ukaz.lastbuildstate".
+     1>Построение проекта "c:\Users\Desaf\documents\visual studio 2010\Projects\Ukaz\Ukaz\Ukaz.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.42
