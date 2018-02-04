@@ -13,6 +13,7 @@ int main()
 
 	FibonacciSequence(n);
 
+	cout << endl;
 	system("pause");
     return 0;
 }
