@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 namespace CppWinForm1 {
 
 	using namespace System;
@@ -78,24 +78,28 @@ namespace CppWinForm1 {
 			// label1
 			// 
 			this->label1->AutoSize = true;
+			this->label1->BackColor = System::Drawing::Color::Transparent;
 			this->label1->Font = (gcnew System::Drawing::Font(L"Microsoft Sans Serif", 7.8F, System::Drawing::FontStyle::Regular, System::Drawing::GraphicsUnit::Point,
 				static_cast<System::Byte>(204)));
+			this->label1->ForeColor = System::Drawing::SystemColors::HighlightText;
 			this->label1->Location = System::Drawing::Point(42, 41);
 			this->label1->Margin = System::Windows::Forms::Padding(2, 0, 2, 0);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(125, 13);
+			this->label1->Size = System::Drawing::Size(40, 13);
 			this->label1->TabIndex = 1;
-			this->label1->Text = L"Äëèíà ïåðâîé ñòîðîíû";
+			this->label1->Text = L"Ð”Ð»Ð¸Ð½Ð°";
 			// 
 			// label2
 			// 
 			this->label2->AutoSize = true;
+			this->label2->BackColor = System::Drawing::Color::Transparent;
+			this->label2->ForeColor = System::Drawing::SystemColors::HighlightText;
 			this->label2->Location = System::Drawing::Point(42, 64);
 			this->label2->Margin = System::Windows::Forms::Padding(2, 0, 2, 0);
 			this->label2->Name = L"label2";
-			this->label2->Size = System::Drawing::Size(124, 13);
+			this->label2->Size = System::Drawing::Size(46, 13);
 			this->label2->TabIndex = 3;
-			this->label2->Text = L"Äëèíà âòîðîé ñòîðîíû";
+			this->label2->Text = L"Ð¨Ð¸Ñ€Ð¸Ð½Ð°";
 			// 
 			// button1
 			// 
@@ -104,19 +108,21 @@ namespace CppWinForm1 {
 			this->button1->Name = L"button1";
 			this->button1->Size = System::Drawing::Size(100, 33);
 			this->button1->TabIndex = 4;
-			this->button1->Text = L"Âû÷èñëèòü";
+			this->button1->Text = L"Ð Ð°ÑÑÑ‡ÐµÑ‚";
 			this->button1->UseVisualStyleBackColor = true;
 			this->button1->Click += gcnew System::EventHandler(this, &MyForm::button1_Click_1);
 			// 
 			// label3
 			// 
 			this->label3->AutoSize = true;
+			this->label3->BackColor = System::Drawing::Color::Transparent;
+			this->label3->ForeColor = System::Drawing::SystemColors::HighlightText;
 			this->label3->Location = System::Drawing::Point(67, 119);
 			this->label3->Margin = System::Windows::Forms::Padding(2, 0, 2, 0);
 			this->label3->Name = L"label3";
 			this->label3->Size = System::Drawing::Size(59, 13);
 			this->label3->TabIndex = 6;
-			this->label3->Text = L"Ðåçóëüòàò";
+			this->label3->Text = L"Ð ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚";
 			// 
 			// textBox3
 			// 
@@ -130,12 +136,14 @@ namespace CppWinForm1 {
 			// label4
 			// 
 			this->label4->AutoSize = true;
+			this->label4->BackColor = System::Drawing::Color::Transparent;
+			this->label4->ForeColor = System::Drawing::SystemColors::HighlightText;
 			this->label4->Location = System::Drawing::Point(42, 87);
 			this->label4->Margin = System::Windows::Forms::Padding(2, 0, 2, 0);
 			this->label4->Name = L"label4";
-			this->label4->Size = System::Drawing::Size(129, 13);
+			this->label4->Size = System::Drawing::Size(45, 13);
 			this->label4->TabIndex = 12;
-			this->label4->Text = L"Äëèíà òðåòüåé ñòîðîíû";
+			this->label4->Text = L"Ð’Ñ‹ÑÐ¾Ñ‚Ð°";
 			// 
 			// textBox1
 			// 
@@ -181,7 +189,7 @@ namespace CppWinForm1 {
 			this->Name = L"MyForm";
 			this->ShowIcon = false;
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"Ðàññ÷åò îáúåìà";
+			this->Text = L"Ð Ð°ÑÑÑ‡ÐµÑ‚ Ð¿Ð»Ð¾Ñ‰Ð°Ð´Ð¸";
 			this->ResumeLayout(false);
 			this->PerformLayout();
 
