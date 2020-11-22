@@ -1,0 +1,21 @@
+﻿Build started 19.09.2017 12:37:42.
+     1>Project "G:\C++\Практ №2\Pract2\Выведение y=b+kx\Выведение y=b+kx.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Pract2.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\Pract2.unsuccessfulbuild".
+         Touching "Debug\Pract2.lastbuildstate".
+     1>Done Building Project "G:\C++\Практ №2\Pract2\Выведение y=b+kx\Выведение y=b+kx.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.34

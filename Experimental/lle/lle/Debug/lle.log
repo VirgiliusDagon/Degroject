@@ -1,0 +1,4 @@
+﻿  lle.cpp
+lle.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+  lle.vcxproj -> D:\Visual Studio\Projects\Degroject\Experimental\lle\Debug\lle.exe
+  lle.vcxproj -> D:\Visual Studio\Projects\Degroject\Experimental\lle\Debug\lle.pdb (Full PDB)

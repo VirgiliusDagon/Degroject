@@ -1,0 +1,21 @@
+﻿Построение начато 07.11.2017 11:56:26.
+     1>Проект "C:\Users\Desaf\Documents\Visual Studio 2010\Projects\Pract4\Lab4\Lab4.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Pract4.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\Pract4.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Pract4.lastbuildstate".
+     1>Построение проекта "C:\Users\Desaf\Documents\Visual Studio 2010\Projects\Pract4\Lab4\Lab4.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.20

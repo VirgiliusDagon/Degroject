@@ -1,0 +1,21 @@
+﻿Построение начато 19.10.2017 19:08:45.
+     1>Проект "C:\Users\Desaf\Documents\Visual Studio 2010\Projects\Практ №3\Pract3\Pract3\Pract3.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Pract3.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\Pract3.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Pract3.lastbuildstate".
+     1>Построение проекта "C:\Users\Desaf\Documents\Visual Studio 2010\Projects\Практ №3\Pract3\Pract3\Pract3.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.15
